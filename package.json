@@ -1,5 +1,5 @@
 {
-  "name": "gallery-of-images",
+  "name": "modern-gallery-of-images",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
     "preshow:dist": "npm run build",
     "show:dist": "live-server dist"
   },
-  "repository": "git@github.com:Nikoivan/gallery-of-images.git",
+  "repository": "git@github.com:Nikoivan/modern-gallery-of-images.git",
   "author": "Ivan Nikolaenko <nikolaenkostudio@gmail.com>",
   "license": "MIT",
   "devDependencies": {
